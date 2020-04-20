@@ -1,0 +1,12 @@
+# Naive-Bayes-implementation-without-GaussianNB
+Implemented a generic NaiveBayes model without using GaussianNB
+
+The datassets used for the above model can be found in the maste. The sreenshots are attached as well.
+The accuracy of the model depends on the dataset. It ranges from 60-99% for my model. 
+The preprocessing code is attached as well.
+
+Basically the code is divided into four main fucntions(&subfuncs),
+- preprocesing of data. Implemented in function - preprocess_datasetName
+- train 
+- predict
+- evaluate 
