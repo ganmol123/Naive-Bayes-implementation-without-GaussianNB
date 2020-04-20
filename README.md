@@ -10,3 +10,5 @@ Basically the code is divided into four main fucntions(&subfuncs),
 - train 
 - predict
 - evaluate 
+
+Results are summarized and can be found in results_accuracy.xlxs
