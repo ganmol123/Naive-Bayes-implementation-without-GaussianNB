@@ -1,7 +1,7 @@
 # Naive-Bayes-implementation-without-GaussianNB
 Implemented a generic NaiveBayes model without using GaussianNB
 
-The datassets used for the above model can be found in the maste. The sreenshots are attached as well.
+The datassets used for the above model can be found in the master. The sreenshots are attached as well(SS).
 The accuracy of the model depends on the dataset. It ranges from 60-99% for my model. 
 The preprocessing code is attached as well.
 
