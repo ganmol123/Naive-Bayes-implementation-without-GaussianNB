@@ -5,7 +5,7 @@ The datassets used for the above model can be found in the master. The sreenshot
 The accuracy of the model depends on the dataset. It ranges from 60-99% for my model. 
 The preprocessing code is attached as well.
 
-Basically the code is divided into four main fucntions(&subfuncs),
+The code is divided into four main functions(&subfuncs),
 - preprocesing of data. Implemented in function - preprocess_datasetName
 - train 
 - predict
